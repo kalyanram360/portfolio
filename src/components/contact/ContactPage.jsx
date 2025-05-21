@@ -76,7 +76,7 @@ const ContactPage = () => {
         </svg>
       ),
       title: 'Location',
-      value: 'Visakhapatnap, India',
+      value: 'Visakhapatnam, India',
       link: null
     }
   ];
