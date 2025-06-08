@@ -6,8 +6,8 @@ const projects = [
     title: 'PortFolio',
     description: 'Developed a responsive personal portfolio website using React.js, Tailwind CSS, and Framer Motion. Showcases my skills, projects, and experience with smooth animations and a clean, modern UI.',
     imageUrl: '/portfoimage.jpg',
-    githubUrl : '',
-    liveUrl : '',
+    githubUrl : 'https://github.com/kalyanram360/portfolio',
+    liveUrl : 'https://portfolio-kalyans-projects-dee0b259.vercel.app/',
   },
   {
     title: 'LettCode-Buddy-Matcher',
@@ -15,6 +15,13 @@ const projects = [
     imageUrl: '/pm.jpg',
     githubUrl : 'https://github.com/kalyanram360/final_SyncSolve',
     liveUrl : 'https://finalsyncsolve-production.up.railway.app/',
+  },
+  {
+    title: 'FolioForge',
+    description: 'FolioForge lets users select a portfolio template, fill in their details, and automatically deploy the site to GitHub Pages — no terminal commands, no setup, no hassle.',
+    imageUrl: '/portmaker.jpg',
+    githubUrl : 'https://github.com/kalyanram360/portfolio_maker_backend',
+    liveUrl : 'https://portfolio-maker-frontend-liard.vercel.app/',
   },
 
 ];
