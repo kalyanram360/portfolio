@@ -19,7 +19,7 @@ const projects = [
   {
     title: 'FolioForge',
     description: 'FolioForge lets users select a portfolio template, fill in their details, and automatically deploy the site to GitHub Pages — no terminal commands, no setup, no hassle.',
-    imageUrl: '/portmaker.jpg',
+    imageUrl: '/portmaker.png',
     githubUrl : 'https://github.com/kalyanram360/portfolio_maker_backend',
     liveUrl : 'https://portfolio-maker-frontend-liard.vercel.app/',
   },
